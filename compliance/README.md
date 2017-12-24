@@ -14,6 +14,7 @@ Scenario maps (randomly generated scenario):
 * scenario_test1
 * scenario_test2
 * scenario_mansion
+* shore
 
 Test maps:
 * ally_test
@@ -23,3 +24,7 @@ Test maps:
 * psy_test
 * timestop_test
 * trap_test
+
+Prefabs:
+* combine_ship
+* combine_ship_crane
